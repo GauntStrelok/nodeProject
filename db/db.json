@@ -1,0 +1,36 @@
+{
+  "exists": true,
+  "users": [
+    {
+      "username": "pablo",
+      "password": "9bd1d6fa1d83ebd09260f956f6a91281b89f3995fcd8b1166e2e0631e32da275",
+      "files": [],
+      "jwt": ""
+    },
+    {
+      "username": "pgotelli",
+      "password": "bab5546e2162a7bae1a3eb42b7420abfe4533ffa559e4905c5459fdc92852b96",
+      "jwt": "",
+      "files": []
+    },
+    {
+      "username": "apolo",
+      "password": "70db95371fb0b09b3721e57efa8c2d7c7fd961188ddad91974bdebe6d9991b1a",
+      "jwt": "369827102523.32446",
+      "files": []
+    },
+    {
+      "username": "apolo64",
+      "password": "b298d3ab37390457e9840bde3a8850679522f2ccbad9ebce359d36722e699f88",
+      "jwt": "1498100002383.4685",
+      "files": []
+    },
+    {
+      "username": "859675489",
+      "password": "84c49449df7eeffaf725ab08267a1ed4e627188e9ac101bbdc98fa0f318ea53f",
+      "jwt": "",
+      "files": []
+    }
+  ],
+  "stringsCalculated": []
+}
